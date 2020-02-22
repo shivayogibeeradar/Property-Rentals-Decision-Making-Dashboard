@@ -1,1 +1,0 @@
-# Capital-One-Data-Challenge
