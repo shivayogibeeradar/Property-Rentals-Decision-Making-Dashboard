@@ -1,5 +1,6 @@
 appnope==0.1.0
 <<<<<<< HEAD
+<<<<<<< HEAD
 attrs==19.3.0
 backcall==0.1.0
 bleach==3.1.4
@@ -62,6 +63,8 @@ webencodings==0.5.1
 widgetsnbextension==3.5.1
 zipp==3.1.0
 =======
+=======
+>>>>>>> aff4a8a0b39592d28baca9f393551d320b1893d8
 astroid==2.3.3
 astropy==4.0
 attrs==19.3.0
@@ -183,4 +186,7 @@ webencodings==0.5.1
 widgetsnbextension==3.5.1
 wrapt==1.11.2
 zipp==2.2.0
+<<<<<<< HEAD
+>>>>>>> aff4a8a0b39592d28baca9f393551d320b1893d8
+=======
 >>>>>>> aff4a8a0b39592d28baca9f393551d320b1893d8
