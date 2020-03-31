@@ -42,7 +42,6 @@ joblib==0.14.1
 jsonschema==3.2.0
 jupyter-client==5.3.4
 jupyter-core==4.6.1
-kaggle==1.5.6
 kiwisolver==1.1.0
 lazy-object-proxy==1.4.3
 llvmlite==0.31.0
@@ -82,7 +81,6 @@ py==1.8.1
 pygeocoder==1.2.5
 Pygments==2.4.2
 pylint==2.4.4
-
 pyparsing==2.4.6
 pyproj==2.4.2.post1
 pyrsistent==0.15.7
