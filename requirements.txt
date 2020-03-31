@@ -57,13 +57,11 @@ munch==2.5.0
 murmurhash==1.0.2
 nbconvert==5.6.1
 nbformat==5.0.4
-nltk==3.4.5
 notebook==6.0.3
 numba==0.48.0
 numpy==1.17.4
 packaging==20.1
 pandas==0.25.3
-pandas-profiling==2.4.0
 pandocfilters==1.4.2
 parso==0.5.1
 pexpect==4.7.0
@@ -82,7 +80,6 @@ py==1.8.1
 pygeocoder==1.2.5
 Pygments==2.4.2
 pylint==2.4.4
-
 pyparsing==2.4.6
 pyproj==2.4.2.post1
 pyrsistent==0.15.7
