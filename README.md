@@ -1,6 +1,7 @@
-# Capital-One-Data-Challenge 
+# Property Rentals Decision Making Dashboard using Airbnb and Zillow Data
 
-Documentation Data Challenge Capital One
+
+
 
 • Key Points:
 
