@@ -1,4 +1,4 @@
-# Property Rentals Decision Making Dashboard using Airbnb and Zillow Data
+# Property Rentals Decision Making Dashboard 
 
 
 
